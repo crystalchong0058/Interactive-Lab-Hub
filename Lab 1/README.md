@@ -62,12 +62,16 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 To stage an interaction with your interactive device, think about:
 
 _Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
+in every house hold, we will have this interactive device
 
 _Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
+Pet owners.
 
 _Activity:_ What is happening between the actors?
+depending on the action of the cat towards the device the color will change.
 
 _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
+to understand the feelings of the other party.
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
