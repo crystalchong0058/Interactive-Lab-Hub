@@ -72,6 +72,12 @@ Pet owners.
 _Activity:_ What is happening between the actors?
 
 depending on the action of the cat towards the device the color will change.
+  when the cat talks to the device, the screen will go to Blue.
+  when the cat licks the device, the screen will go to Pink.
+  when the cat touchs the device, the screen will go to Orange.
+  when the cat punches the device, the screen will go to White.
+  when the cat bite the device, the screen will go to red(maybe make sound"Stop biting me Kitten")
+  
 
 _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
 
