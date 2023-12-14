@@ -18,10 +18,11 @@ int network_enable = 1;
 
 
 //WIFI Config
-//const char* ssid = "WhiteSky-Cornell";
-//const char* password = "4xjf6grn";
-const char* ssid = "Xiaomi 13 Ultra";
-const char* password = "qwertyuiop";
+const char* ssid = "WhiteSky-Cornell";
+const char* password = "4xjf6grn";
+
+// const char* ssid = "";
+// const char* password = "";
 //
 
 //Sensor Config
